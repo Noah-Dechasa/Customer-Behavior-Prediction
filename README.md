@@ -54,3 +54,5 @@ The dataset contains customer purchase and interaction data, including features 
 ## Conclusion
 This analysis shows that focusing on **Discount Applied**, **Purchase Amount**, and **Age** allows for building a highly accurate predictive model while maintaining simplicity. The reduced model (Logistic Regression) performs just as well as the full model, making it an excellent choice for interpretability and deployment. The key takeaway is that **personalized discounts**, **purchase behavior monitoring**, and **age-based segmentation** can significantly enhance marketing efforts and customer retention strategies.
 
+**Data Link**
+https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset
